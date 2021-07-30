@@ -1,0 +1,12 @@
+C:\Users\Abby\Documents\GitHub\Dictionaries\Is_Palindrome_Check\bin\Debug\Is_Palindrome_Check.dll
+C:\Users\Abby\Documents\GitHub\Dictionaries\Is_Palindrome_Check\bin\Debug\Is_Palindrome_Check.pdb
+C:\Users\Abby\Documents\GitHub\Dictionaries\Is_Palindrome_Check\obj\Debug\Is_Palindrome_Check.csproj.AssemblyReference.cache
+C:\Users\Abby\Documents\GitHub\Dictionaries\Is_Palindrome_Check\obj\Debug\Is_Palindrome_Check.csproj.CoreCompileInputs.cache
+C:\Users\Abby\Documents\GitHub\Dictionaries\Is_Palindrome_Check\obj\Debug\Is_Palindrome_Check.dll
+C:\Users\Abby\Documents\GitHub\Dictionaries\Is_Palindrome_Check\obj\Debug\Is_Palindrome_Check.pdb
+C:\Users\Abby\Documents\GitHub\Is_palindrome_check\bin\Debug\Is_Palindrome_Check.dll
+C:\Users\Abby\Documents\GitHub\Is_palindrome_check\bin\Debug\Is_Palindrome_Check.pdb
+C:\Users\Abby\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.csproj.AssemblyReference.cache
+C:\Users\Abby\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.csproj.CoreCompileInputs.cache
+C:\Users\Abby\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.dll
+C:\Users\Abby\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.pdb
