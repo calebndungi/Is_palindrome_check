@@ -6129,19 +6129,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Abby\\.nuget\\packages\\": {}
+    "C:\\Users\\v-cakima.REDMOND\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abby\\Documents\\GitHub\\Is_palindrome_check\\StringLibraryTest\\StringLibraryTest.csproj",
+      "projectUniqueName": "C:\\Users\\v-cakima.REDMOND\\Documents\\GitHub\\Is_palindrome_check\\StringLibraryTest\\StringLibraryTest.csproj",
       "projectName": "StringLibraryTest",
-      "projectPath": "C:\\Users\\Abby\\Documents\\GitHub\\Is_palindrome_check\\StringLibraryTest\\StringLibraryTest.csproj",
-      "packagesPath": "C:\\Users\\Abby\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abby\\Documents\\GitHub\\Is_palindrome_check\\StringLibraryTest\\obj\\",
+      "projectPath": "C:\\Users\\v-cakima.REDMOND\\Documents\\GitHub\\Is_palindrome_check\\StringLibraryTest\\StringLibraryTest.csproj",
+      "packagesPath": "C:\\Users\\v-cakima.REDMOND\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\v-cakima.REDMOND\\Documents\\GitHub\\Is_palindrome_check\\StringLibraryTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Abby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\v-cakima.REDMOND\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6155,8 +6155,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Abby\\Documents\\GitHub\\Is_palindrome_check\\Is_Palindrome_Check.csproj": {
-              "projectPath": "C:\\Users\\Abby\\Documents\\GitHub\\Is_palindrome_check\\Is_Palindrome_Check.csproj"
+            "C:\\Users\\v-cakima.REDMOND\\Documents\\GitHub\\Is_palindrome_check\\Is_Palindrome_Check.csproj": {
+              "projectPath": "C:\\Users\\v-cakima.REDMOND\\Documents\\GitHub\\Is_palindrome_check\\Is_Palindrome_Check.csproj"
             }
           }
         }
@@ -6203,7 +6203,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }

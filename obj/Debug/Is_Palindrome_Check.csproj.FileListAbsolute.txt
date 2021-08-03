@@ -10,3 +10,9 @@ C:\Users\Abby\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check
 C:\Users\Abby\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.csproj.CoreCompileInputs.cache
 C:\Users\Abby\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.dll
 C:\Users\Abby\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.pdb
+C:\Users\v-cakima.REDMOND\Documents\GitHub\Is_palindrome_check\bin\Debug\Is_Palindrome_Check.dll
+C:\Users\v-cakima.REDMOND\Documents\GitHub\Is_palindrome_check\bin\Debug\Is_Palindrome_Check.pdb
+C:\Users\v-cakima.REDMOND\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.csprojAssemblyReference.cache
+C:\Users\v-cakima.REDMOND\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.csproj.CoreCompileInputs.cache
+C:\Users\v-cakima.REDMOND\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.dll
+C:\Users\v-cakima.REDMOND\Documents\GitHub\Is_palindrome_check\obj\Debug\Is_Palindrome_Check.pdb
