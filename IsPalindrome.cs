@@ -31,6 +31,22 @@ namespace Is_Palindrome_Check
 
         public static bool pointersCheck(string str)
         {
+            int fp = 0;
+
+            int lp = str.Length - 1;
+
+            while(fp <= lp)
+            {
+                if(str[fp] != str[lp])
+                {
+                    return false;
+                }
+                else
+                {
+                    fp++;
+                    lp--;
+                }
+            }
 
             return true;
         }
@@ -57,14 +73,7 @@ namespace Is_Palindrome_Check
             }
 
         }
-        public static bool StartsWithUpper(string str)
-        {
-            if (string.IsNullOrWhiteSpace(str))
-                return false;
-
-            char ch = str[0];
-            return char.IsUpper(ch);
-        }
+       
 
     }
 }
